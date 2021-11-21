@@ -13,7 +13,7 @@ There are four different datasets that will be used in this project, and they ha
 * **Toronto emotional speech set (TESS)** (https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess): 2800 files, There are a set of 200 target words were spoken by two actresses (aged 26 and 64 years). seven emotions (anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral).
 
 # Algorithm
-We will apply feature selection and extraction to extract the most important features from the audio files and then we will apply neural network
+We will apply feature selection and extraction to extract the most important features from the audio files and then we will apply neural network algorithms.
 
 # Tools
 * Technologies: Python, Jupyter notebook.
