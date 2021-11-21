@@ -2,7 +2,7 @@
 * Rawabi Alharbi
 * Dimah Albunayyih
 
-![TLC logo](https://cdnnarabic1.img.sputniknews.com/img/102726/67/1027266737_0:0:3499:1892_1000x541_80_0_0_af3156c0939d0446d12aef0e5703589a.jpg)
+![TLC logo](https://www.counselingintegrity.com/wp-content/uploads/2020/05/get-in-touch-with-emotions.png)
 
 # Problem statement
 Recognizing emotions from speech to know ...
@@ -10,7 +10,7 @@ Recognizing emotions from speech to know ...
 # Data Description
 There are four different datasets that will be used in this project, and they have been downloaded from Kaggle.
 * CREMA-D (https://www.kaggle.com/ejlok1/cremad)
-It is a data set of 7,442 original clips from 91 actors, and the sentences were presented using one of six different emotions (Anger, Disgust, Fear, Happy, Neutral, and Sad)
+*It is a data set of 7,442 original clips from 91 actors, and the sentences were presented using one of six different emotions (Anger, Disgust, Fear, Happy, Neutral, and Sad)
 * RAVDESS (https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
 contains 1440 files, 60 trials per actor x 24 actors. Speech emotions includes calm, happy, sad, angry, fearful, surprise, and disgust expressions. 
 * SAVEE (https://www.kaggle.com/ejlok1/surrey-audiovisual-expressed-emotion-savee)
