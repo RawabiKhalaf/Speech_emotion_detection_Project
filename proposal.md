@@ -5,7 +5,12 @@
 ![TLC logo](https://cdn.dribbble.com/users/69182/screenshots/4793955/feedback_reactions__by__amiri.gif)
 
 # Problem statement
-Recognizing emotions from speech to know ...
+Recognizing emotions from speech to know 
+It could be beneficial for call centers
+giving health care support for elderly people and emergency call centers. The proposed recognition
+of call urgency and consequent call ranking and redistribution is based on emotion recognition in
+speech, giving greater priority to calls featuring emotions such as fear, anger and sadness, and less
+priority to calls featuring neutral speech and happiness. 
 
 # Data Description
 There are four different datasets that will be used in this project, and they have been downloaded from Kaggle.
@@ -15,7 +20,7 @@ There are four different datasets that will be used in this project, and they ha
 * **TESS** (https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess): 2800 files, There are a set of 200 target words were spoken by two actresses (aged 26 and 64 years). seven emotions (anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral).
 
 # Algorithm
-I will use NLP techniques to preprocess the data. Then, I will apply different topic modelling algorithms to find the best one that clusters the articles into topics.
+We will apply feature selection and extraction to extract the most important features from the audio files and then we will apply neural network
 
 # Tools
 * Technologies: Python, Jupyter notebook.
