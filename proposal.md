@@ -2,8 +2,6 @@
 * Rawabi Alharbi
 * Dimah Albunayyih
 
-![TLC logo](https://cdn.dribbble.com/users/69182/screenshots/4793955/feedback_reactions__by__amiri.gif)
-
 # Problem statement
 Speech Emotion Recognition (SER) is the act of recognizing human emotion from speech. This is the advantage of the fact that voice often reflects underlying emotion through tone and pitch. SER can be beneficial for call centers that are giving health care support for elderly people and emergency call centers. The proposed project is based on speech emotion recognition is giving greater priority to calls with emotions such as fear, anger, and sadness, and less priority to calls with neutral speech and happiness.
 
