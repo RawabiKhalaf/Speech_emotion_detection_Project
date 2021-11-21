@@ -2,7 +2,7 @@
 * Rawabi Alharbi
 * Dimah Albunayyih
 
-![TLC logo](https://www.counselingintegrity.com/wp-content/uploads/2020/05/get-in-touch-with-emotions.png)
+![TLC logo](https://knowledgeone.ca/wp-content/uploads/2018/10/4emotions-01.jpg)
 
 # Problem statement
 Recognizing emotions from speech to know ...
