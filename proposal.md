@@ -2,7 +2,7 @@
 * Rawabi Alharbi
 * Dimah Albunayyih
 
-![TLC logo](https://knowledgeone.ca/wp-content/uploads/2018/10/4emotions-01.jpg)
+![TLC logo](https://cdn.dribbble.com/users/325172/screenshots/6358244/4-emoties-3.gif)
 
 # Problem statement
 Recognizing emotions from speech to know ...
