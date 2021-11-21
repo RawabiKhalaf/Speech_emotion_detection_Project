@@ -10,7 +10,7 @@ Recognizing emotions from speech to know ...
 # Data Description
 There are four different datasets that will be used in this project, and they have been downloaded from Kaggle.
 * CREMA-D (https://www.kaggle.com/ejlok1/cremad)
-  It is a data set of 7,442 original clips from 91 actors, and the sentences were presented using one of six different emotions (Anger, Disgust, Fear, Happy, Neutral, and Sad)
+### It is a data set of 7,442 original clips from 91 actors, and the sentences were presented using one of six different emotions (Anger, Disgust, Fear, Happy, Neutral, and Sad)
 * RAVDESS (https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
 contains 1440 files, 60 trials per actor x 24 actors. Speech emotions includes calm, happy, sad, angry, fearful, surprise, and disgust expressions. 
 * SAVEE (https://www.kaggle.com/ejlok1/surrey-audiovisual-expressed-emotion-savee)
