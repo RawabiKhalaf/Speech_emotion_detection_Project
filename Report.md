@@ -8,7 +8,7 @@ Speech Emotion Recognition (SER) is the act of recognizing human emotion from sp
 The four datasets provided on Kaggle were stored as CSV files. The first process was clean the datasets, made them as one format and concatenate them. Then we did EDA to understand the data. After that we started the CNN to predict the speech emotion.
 
 ## Data
-There are four different datasets that will be used in this project, and they have been downloaded from Kaggle.
+In this project, we used four different datasets, which are:
 * **Crowd-sourced Emotional Mutimodal Actors Dataset (CREMA-D)** (https://www.kaggle.com/ejlok1/cremad): It is a data set of 7,442 original clips from 91 actors, and the sentences were presented using one of six different emotions (Anger, Disgust, Fear, Happy, Neutral, and Sad)
 * **Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)** (https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio): contains 1440 files, 60 trials per actor x 24 actors. Speech emotions includes calm, happy, sad, angry, fearful, surprise, and disgust expressions. 
 * **Surrey Audio-Visual Expressed Emotion (SAVEE)** (https://www.kaggle.com/ejlok1/surrey-audiovisual-expressed-emotion-savee): 480 files was recorded from four native English male speakers. Emotion has been described psychologically in discrete categories: anger, disgust, fear, happiness, sadness, surprise, and neutral.
