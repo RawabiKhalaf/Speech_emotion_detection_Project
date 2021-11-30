@@ -8,7 +8,11 @@ Speech Emotion Recognition (SER) is the act of recognizing human emotion from sp
 The four datasets provided on Kaggle were stored as CSV files. The first process was clean the datasets, made them as one format and concatenate them. Then we did EDA to understand the data. After that we started the CNN to predict the speech emotion.
 
 ## Data
-In this project, we used the data from Github (https://github.com/inparallel/SaudiNewsNet). It contains a set of 31,030 Arabic newspaper articles along with metadata, extracted from various online Saudi newspapers.
+There are four different datasets that will be used in this project, and they have been downloaded from Kaggle.
+* **Crowd-sourced Emotional Mutimodal Actors Dataset (CREMA-D)** (https://www.kaggle.com/ejlok1/cremad): It is a data set of 7,442 original clips from 91 actors, and the sentences were presented using one of six different emotions (Anger, Disgust, Fear, Happy, Neutral, and Sad)
+* **Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)** (https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio): contains 1440 files, 60 trials per actor x 24 actors. Speech emotions includes calm, happy, sad, angry, fearful, surprise, and disgust expressions. 
+* **Surrey Audio-Visual Expressed Emotion (SAVEE)** (https://www.kaggle.com/ejlok1/surrey-audiovisual-expressed-emotion-savee): 480 files was recorded from four native English male speakers. Emotion has been described psychologically in discrete categories: anger, disgust, fear, happiness, sadness, surprise, and neutral.
+* **Toronto emotional speech set (TESS)** (https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess): 2800 files, There are a set of 200 target words were spoken by two actresses (aged 26 and 64 years). seven emotions (anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral).
 
 ## Algorithms
 We applied different Augmentation techniques (Noise injection, stretching and pitch), and applied feature extraction techniques (zero crossing rate, chroma_stft, MFCC, RMS and melSpectogram) to extract the most important features from the audio files and then we applied neural network algorithms using convolution and dense layers with (relu and softmax) activation functions.
