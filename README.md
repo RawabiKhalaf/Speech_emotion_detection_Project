@@ -6,4 +6,4 @@ SDAIA T5 Data Science Bootcamp Deep Learning Project
 * [Project Proposal](Project_proposal.md)
 * [Final Report](Report.md)
 * [Source Code](Source_code.ipynb)
-* [Presentation Slides}(Slides.pdf)
+* [Presentation Slides](Slides.pdf)
